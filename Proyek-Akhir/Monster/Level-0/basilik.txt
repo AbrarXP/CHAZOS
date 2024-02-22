@@ -1,0 +1,7 @@
+Basilik
+65 80
+65 80
+"Basic Attack",10 0 0
+"Skill : Petrifying Gaze ",25 30  2
+"Skill : Venomous Fangs",35 35 3
+"Skill Ultimate : Stone Shatter",40 45 4

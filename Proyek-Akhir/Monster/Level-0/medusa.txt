@@ -1,0 +1,7 @@
+Medusa
+100 100
+100 100
+"Basic Attack",18 0 0
+"Skill : Serpent's Embrace ",35 10 1
+"Skill : Siren's Whisper",40 35 2
+"Skill Ultimate : Gorgon's Gaze",80 20 5

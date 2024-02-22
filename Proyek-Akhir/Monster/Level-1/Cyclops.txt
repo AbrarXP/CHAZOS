@@ -1,0 +1,7 @@
+Cyclops
+300 200
+300 200
+"Basic Attack",20 0 0
+"Skill : Magical Orbs", 65 25 1
+"Skill : Arcane Bolt", 80 40 1
+"Skill Ultimmate : Catalyst Blast",100 80 5

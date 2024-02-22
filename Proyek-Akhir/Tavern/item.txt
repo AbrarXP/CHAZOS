@@ -1,0 +1,5 @@
+Tavern Burger,Burger lezat dengan daging panggang keju dan sayuran segar. Tavern Burger meningkatkan jumlah maksimum darah (Max HP) sebanyak 20 poin dan memberikan kepuasan dengan daging panggannya yang juicy.,25
+Wizard's Elixir,Minuman ajaib yang memberikan peningkatan mana (Max Mana) sebanyak 20. Wizard's Elixir diketahui memberikan efek positif pada kekuatan sihir dan membantu para penyihir dalam perjalanan mereka.,25
+Potion of Healing,Sebuah ramuan penyembuhan yang cepat memulihkan darah. Potion of Healing dapat meningkatkan jumlah darah sebanyak 50 poin dan membantu petualang untuk pulih dari luka-luka dalam pertempuran.,10
+Elven Leaf Wine,Anggur elegan yang terbuat dari ladang anggur Elf. Wine ini dapat meningkatkan jumlah mana sebanyak 50 poin dan sangat dibutuhkan oleh petualang yang bergantung pada kekuatan sihir.,10
+Pixie Nectar,Minuman manis yang terbuat dari nektar bunga pixie. Minuman ini sering diminati oleh petualang yang ingin menyegarkan pikiran dan mendapatkan sentuhan magis.,15

@@ -1,0 +1,7 @@
+Harpy
+180 150
+180 150
+"Basic Attack",5 0 0
+"Skill : Feather Dart",10 10 1
+"Skill : Gale Wings",35 5 1
+"SKill Ultimate : Tempest Fury",30 15 1

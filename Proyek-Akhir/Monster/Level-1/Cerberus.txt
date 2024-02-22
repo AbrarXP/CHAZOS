@@ -1,0 +1,7 @@
+Cerberus
+400 200
+400 200
+"Basic Attack",30 0 0
+"Skill : Infernal Bite",45 60 2
+"Skill : Roaring Flames",90 55 3
+"Skill Ultimmate : Stygian Conflagration",200 90 6

@@ -1,0 +1,55 @@
+ 
+                                                                                  >> Developer CHAZOS <<
+                                                   --------------------------------------------------------------------------------------
+                                                   |  Baretta Panuju Luhur  |  Muhammad essa pradipta abrar  |  Aryadeva bagus saputra  |
+                                                   |       123220204        |            123220191           |         123220186        |
+                                                   --------------------------------------------------------------------------------------
+
+                                                                                      Apa itu Chazos ?
+
+                                                 Chazos merupakan program proyek akhir yang mengimplementasikan semua materi yang sudah di pelajari
+                              selama di semester 2, Chazos adalah permainan buatan mahasiswa Teknik Informatika Universitas Pembangunan Nasional Veteran Yogyakarta
+                                                     yang mengusung tema Player VS Computer yang didasari oleh bahasa pemrograman C++. 
+                                        Chazos adalah game strategi yang mengajak playernya untuk berpikir langkah langkah apa yang harus di ambil
+                                      untuk meraih kemenangan, Permainan ini dapat melatih kemampuan berpikir dan kecerdasaran player dalam memikirkan strategi.
+
+
+                                      
+ =====================================================================================================================================================================================================
+                                                                                    Ringkasan Cerita                                                                                                  
+                                                                                                                                                                                                      
+======================================================================================================================================================================================================
+               Di zaman kuno yang dipenuhi mitos dan legenda, ada seorang pahlawan yang diutus oleh Zeus, raja para dewa, untuk menyelamatkan Underworld yang terperosok dalam kegelapan.              
+                 Nama pahlawan tersebut adalah Orion, seorang pria berani dan berhati mulia yang telah menarik perhatian Zeus dengan keberanian dan dedikasinya terhadap umat manusia.                
+                                                     Underworld, tanah kegelapan yang dikuasai oleh dewa Hades, tenggelam dalam kekacauan dan kejahatan.                                              
+                                  Hades, yang terpesona oleh kekuatan kegelapan, berniat untuk menguasai dunia manusia dengan pasukan iblis yang tak terhitung jumlahnya.                               
+                                Zeus, yang mengasihi umat manusia dan melihat bahaya yang mengancam, memutuskan untuk mengutus Orion untuk menghentikan ambisi jahat Hades.                                 
+                                                                   Sebelum Orion berangkat, Zeus memberinya berkah istimewa.                                                                                  
+                                Dewa yang bijaksana ini memberikan Orion senjata yang tak tertandingi, panah sakti yang memiliki kekuatan membawa cahaya dan keadilan.                                 
+                      Selain itu, Zeus memberikan Orion pelindung khusus yang memberinya kekuatan dan ketahanan yang tak terbatas dalam pertempuran melawan kegelapan Underworld.                         
+                                               Dengan senjata dan berkah yang diberikan oleh Zeus, Orion memasuki Underworld dengan hati yang penuh tekad.                                              
+                                                          Langit-langit Underworld dipenuhi dengan awan kelam yang menghalangi sinar matahari.                                                                      
+                                                   Orion berjalan melewati sungai Lethe, sungai yang dapat membuat manusia kehilangan ingatan mereka.                                                         
+                                                 Namun, berkat pelindung dari Zeus, ia tetap teguh dan tidak terpengaruh oleh pengaruh sungai tersebut.                                                   
+                                                 Orion menghadapi banyak bahaya dan rintangan saat ia menelusuri jalannya melalui Underworld yang suram.                                                    
+              Ia berhadapan dengan iblis-iblis yang menjaga pintu gerbang, monster-monster menakutkan yang menjaga labirin gelap, dan roh-roh yang terperangkap dalam penderitaan yang abadi.                     
+                                Namun, dengan panah sakti dari Zeus, Orion menghancurkan rintangan satu per satu, membawa terang di tengah kegelapan dan keputusasaan.                                          
+                                                 Saat Orion mendekati istana Hades, ia disambut dengan tantangan terakhir yang paling berbahaya.                                                                      
+                                             Cerberus, anjing tiga kepala yang menjaga gerbang neraka, melawan Orion dengan gigi dan kuku yang tajam.                                                               
+                                     Namun, dengan kelincahan dan ketangguhan yang luar biasa, Orion mengalahkan Cerberus dan melangkah maju menuju Hades.                                                
+                                                                       Akhirnya, Orion tiba di hadapan Hades yang kuat.                                                                                           
+                                      Hades, merasa terancam oleh kehadiran pahlawan ini, melepaskan kegelapan dan kemarahan yang kuat untuk menghancurkannya.                                                            
+                                     Namun, dengan panah sakti yang bercahaya dari Zeus, Orion berhasil menghantam Hades, memperoleh kendali atas kekuatannya.                                                
+                                          Di saat kritis itu, Orion, penuh dengan belas kasihan dan kasih sayang, mengajukan tawaran damai kepada Hades.                                                                      
+                                              Ia berbicara tentang kerugian dan kehancuran yang akan ditimbulkan jika Hades melanjutkan rencananya.                                                             
+                                      Hades, yang terkejut oleh kebaikan dan kebijaksanaan Orion, mengerti betapa berharganya kehidupan dan dunia manusia.                                                            
+                                                        Akhirnya, Hades setuju untuk menarik pasukannya dan meninggalkan ambisinya.                                                                                           
+                                       Kemenangan Orion membawa cahaya dan keadilan kembali ke Underworld yang sebelumnya terkungkung dalam kegelapan.                                                            
+                                       Dewa-dewa memberikan pujian kepada Orion atas keberhasilannya dan Zeus memberikan penghormatan khusus kepadanya.                                                         
+                            Sebagai berkat terakhir, Zeus memberikan Orion keabadian sebagai hadiah atas pengorbanan dan keberaniannya dalam menyelamatkan Underworld.                                                        
+                                                         Orion kembali ke dunia manusia dengan penuh kebanggaan dan rasa syukur.                                                                                      
+                                                               Ia menjadi simbol harapan, keberanian, dan kemurahan hati.                                                                                             
+                                           Kisahnya tentang pengorbanan dan kemenangan atas kegelapan Underworld tersebar luas di seluruh dunia,                                                                    
+                                            memberi inspirasi kepada banyak orang untuk melawan kejahatan dan membawa terang dalam kegelapan.  
+
+======================================================================================================================================================================================================

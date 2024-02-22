@@ -1,0 +1,7 @@
+Slime
+30 30
+30 30
+"Basic Attack",3 0 0
+"Skill : Muntahan racun",5 2 1
+"Skill : Percikan slime",4 3 1
+"Skill Ultimate : Slippery punch !",6 5 2

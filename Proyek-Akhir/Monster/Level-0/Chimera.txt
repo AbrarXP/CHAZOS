@@ -1,0 +1,7 @@
+Chimera
+80 100
+80 100
+"Basic Attack",16 0 0
+"Skill : Fire Breath ",20 20 1
+"Skill : Composite Animal Heads",35 30 2
+"Skill Ultimate : Flying Ability",40 50 3

@@ -1,0 +1,7 @@
+Werewolf
+35 80
+35 80
+"Basic Attack",15 0 0
+"Skill : Lunar Howl ",10 20 1
+"Skill : Savage Pounce",15 25 1
+"Skill Ultimate : Feral Retribution",30 30 1

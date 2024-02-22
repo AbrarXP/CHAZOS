@@ -1,0 +1,7 @@
+Minotaur
+190 90
+190 90
+"Basic Attack",12 0 0
+"Skill : Tremendous Physical Strength",25 10 2
+"Skill : Sharp Night Vision", 30 15 1
+"Skill Ultimte : Courage and High Endurance", 45 10 5

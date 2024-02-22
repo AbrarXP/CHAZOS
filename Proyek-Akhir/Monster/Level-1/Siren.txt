@@ -1,0 +1,7 @@
+Siren
+200 100
+200 100
+"Basic Attack",18 0 0
+"Skill : Sirene Head",20 35 3
+"Skill : Blasting Wave",25 20 1
+"Skill Ultimate : Great Great Fear", 45 0 3
