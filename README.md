@@ -1,2 +1,2 @@
 # CHAZOS
-Perfect Version of AKUNA
+Player VS Computer Game
